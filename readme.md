@@ -9,4 +9,7 @@
 
 Hello everyone :raised_hands:, I am **Sajeeb Ahamed** a *full stack developer* currently working at [JoomShaper](https://joomshaper.com). I am a big fan of JavaScript specially ES6+ and libraries like `ReactJS`, `VueJS` and `node.js`. For backend, I mostly write *php* code.
 
-Currently, I am creating a open source *php* library named [JsPhp](https://github.com/ahamed/JsPhp). By using this you can write *php* `array, object, string` methods like `JavaScript` way.
+Currently, I am creating an open source *php* library named [JsPhp](https://github.com/ahamed/JsPhp). By using this you can write *php* `array, object, string` methods like `JavaScript` way.
+
+#### Skilled in
+`JavaScript` `ReactJS` `NextJS` `VueJS` `Gatsby` `NodeJS` `PHP` `Laravel` `Joomla` `MySQL` `Shell` `C++`
