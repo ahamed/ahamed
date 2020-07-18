@@ -3,7 +3,7 @@
 ><br>Web Application Developer, JoomShaper.
 ><br>Email: sajeeb07ahamed@gmail.com
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0576b5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sisylana/) [![Facebook Add](https://img.shields.io/badge/%20-Add-black?color=14171A&labelColor=0b83ef&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ahamed.sajeeb.sisylana/) [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=cc345a&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sajeeb07ahamed/) [![Stackoverflow Askme](https://img.shields.io/badge/%20-Ask-black?color=14171A&labelColor=ee7c23&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/4610740/sajeeb-ahamed)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0576b5&logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://www.linkedin.com/in/sisylana/) [![Facebook Add](https://img.shields.io/badge/%20-Add-black?color=14171A&labelColor=0b83ef&logo=facebook&logoColor=ffffff&style=for-the-badge)](https://www.facebook.com/ahamed.sajeeb.sisylana/) [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=cc345a&logo=instagram&logoColor=ffffff&style=for-the-badge)](https://www.instagram.com/sajeeb07ahamed/) [![Stackoverflow Askme](https://img.shields.io/badge/%20-Ask-black?color=14171A&labelColor=ee7c23&logo=stackoverflow&logoColor=ffffff&style=for-the-badge)](https://stackoverflow.com/users/4610740/sajeeb-ahamed)
 
 
 
