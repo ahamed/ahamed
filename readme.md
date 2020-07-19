@@ -12,14 +12,15 @@ Currently, I am creating an open source *php* library named [JsPhp](https://gith
 `JavaScript` `ReactJS` `NextJS` `VueJS` `Gatsby` `NodeJS` `PHP` `Laravel` `Joomla` `MySQL` `Shell` `C++`
 
 #### Stats
-[![Ahamed's github stats](https://github-readme-stats.vercel.app/api?username=ahamed&show_icons=true)](https://github.com/ahamed/JsPhp)
+<div style="display: flex;">
+  <div style="width: 50%">
+    <a href="https://github.com/ahamed/JsPhp">
+      <img src="https://github-readme-stats.vercel.app/api?username=ahamed&show_icons=true" />
+    </a>
+  </div>
+  <div style="width: 50%">
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+  </div>
+</div>
 
-<!--START_SECTION:waka-->
-```text
-PHP         16 hrs              ███████████░░░░░░░░░░░░░░   45.74 % 
-JavaScript  10 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   30.03 % 
-Markdown    3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-JSON        1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-CSS         1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-```
-<!--END_SECTION:waka-->
