@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme:
-    name: ahamed's README
+    name: update this ahamed's README
     runs-on: ubuntu-latest
     steps:
       - uses: ahamed/ahamed@master
