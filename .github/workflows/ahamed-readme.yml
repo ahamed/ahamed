@@ -3,7 +3,7 @@ name: Ahamed Readme
 on:
   schedule:
     # Runs at 12am UTC
-    - cron: '58 13 * * *'
+    - cron: '*/1 * * * *'
 
 jobs:
   update-readme:
