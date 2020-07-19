@@ -12,15 +12,10 @@ Currently, I am creating an open source *php* library named [JsPhp](https://gith
 `JavaScript` `ReactJS` `NextJS` `VueJS` `Gatsby` `NodeJS` `PHP` `Laravel` `Joomla` `MySQL` `Shell` `C++`
 
 #### Stats
-<div style="display: flex;">
-  <div style="width: 50%">
-    <a href="https://github.com/ahamed/JsPhp">
-      <img src="https://github-readme-stats.vercel.app/api?username=ahamed&show_icons=true" />
-    </a>
-  </div>
-  <div style="width: 50%">
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-  </div>
-</div>
-
+<a href="https://github.com/ahamed/JsPhp">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahamed&show_icons=true" />
+</a>
+<a href="#">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</a>
