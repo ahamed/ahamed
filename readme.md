@@ -12,10 +12,7 @@ Currently, I am creating an open source *php* library named [JsPhp](https://gith
 `JavaScript` `ReactJS` `NextJS` `VueJS` `Gatsby` `NodeJS` `PHP` `Laravel` `Joomla` `MySQL` `Shell` `C++`
 
 #### Stats
-<a href="https://github.com/ahamed/JsPhp">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahamed&show_icons=true" />
-</a>
-<a href="#">
+[![readme stats](https://github-readme-stats.vercel.app/api?username=ahamed&show_icons=true)](https://github.com/ahamed/JsPhp)
 <!--START_SECTION:waka-->
 ```text
 PHP         16 hrs              ███████████░░░░░░░░░░░░░░   45.74 % 
@@ -25,4 +22,3 @@ JSON        1 hr 19 mins        █░░░░░░░░░░░░░░░
 CSS         1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 <!--END_SECTION:waka-->
-</a>
