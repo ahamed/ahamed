@@ -13,3 +13,9 @@ Currently, I am creating an open source *php* library named [JsPhp](https://gith
 
 #### Skilled in
 `JavaScript` `ReactJS` `NextJS` `VueJS` `Gatsby` `NodeJS` `PHP` `Laravel` `Joomla` `MySQL` `Shell` `C++`
+
+#### Stats
+[![Ahamed's github stats](https://github-readme-stats.vercel.app/api?username=ahamed&show_icons=true)](https://github.com/ahamed/JsPhp)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
