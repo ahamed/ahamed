@@ -1,13 +1,13 @@
-name: Waka Readme
+name: Ahamed Readme
 
 on:
   schedule:
     # Runs at 12am UTC
-    - cron: '47 13 * * *'
+    - cron: '52 13 * * *'
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: ahamed's README
     runs-on: ubuntu-latest
     steps:
       - uses: ahamed/ahamed@master
