@@ -15,9 +15,9 @@ Currently, I am creating an open source *php* library named [JsPhp](https://gith
 [![readme stats](https://github-readme-stats.vercel.app/api?username=ahamed&show_icons=true)](https://github.com/ahamed/JsPhp)
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 15 mins  ██████████████▒░░░░░░░░░░   56.76 % 
-PHP          7 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   35.64 % 
-Solidity     1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+JavaScript   13 hrs 43 mins  ████████████████░░░░░░░░░   63.47 % 
+PHP          6 hrs 16 mins   ███████▒░░░░░░░░░░░░░░░░░   29.05 % 
+Solidity     1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 CSS          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 INI          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
