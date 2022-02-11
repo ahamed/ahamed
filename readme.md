@@ -15,10 +15,10 @@ Currently, I am creating an open source *php* library named [JsPhp](https://gith
 [![readme stats](https://github-readme-stats.vercel.app/api?username=ahamed&show_icons=true)](https://github.com/ahamed/JsPhp)
 <!--START_SECTION:waka-->
 ```text
-TypeScript   19 hrs          ███████████████████▒░░░░░   77.57 % 
-SCSS         3 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-HTML         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-JavaScript   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-XML          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+TypeScript   19 hrs 33 mins  ██████████████████░░░░░░░   72.12 % 
+SCSS         6 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.40 % 
+HTML         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+JavaScript   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 <!--END_SECTION:waka-->
