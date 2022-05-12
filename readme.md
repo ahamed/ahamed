@@ -19,12 +19,12 @@ Currently, I am creating an open source *php* library named [JsPhp](https://gith
 
 
 ```text
-TypeScript   9 hrs 16 mins   ████████████████▓░░░░░░░░   66.93 %
-SCSS         1 hr 49 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-JavaScript   1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-HTML         47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TypeScript   11 hrs 22 mins  █████████████████████░░░░   84.38 %
+JavaScript   1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+SCSS         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 </div>
 
