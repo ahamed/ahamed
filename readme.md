@@ -10,10 +10,13 @@ Currently, I am creating an open source *php* library named [JsPhp](https://gith
 
 #### Skilled in
 `JavaScript` `React` `Next` `react-query` `Redux` `CSS` `emotion` `SASS` `PHP` `Joomla` `MySQL` `Shell` `C++` 
+<div style="display: flex; align-items: flex-end; gap: 10px;flex-direction: row-reverse; max-width: 878px;">
+<div>
 
 #### Stats
 [![readme stats](https://github-readme-stats.vercel.app/api?username=ahamed&show_icons=true)](https://github.com/ahamed/JsPhp)
 <!--START_SECTION:waka-->
+
 
 ```text
 TypeScript   9 hrs 16 mins   ████████████████▓░░░░░░░░   66.93 %
@@ -23,5 +26,16 @@ HTML         47 mins         █▒░░░░░░░░░░░░░░░
 CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
+</div>
+
+<div>
+
+<a href="https://app.daily.dev/ahamed"><img src="https://api.daily.dev/devcards/cd43b541d9184df6ac7e890ab6cbc80e.png?r=70i" width="400" alt="sajeeb ahamed's Dev Card"/></a>
+
+</div>
+
+</div>
+
 
 <!--END_SECTION:waka-->
+
