@@ -17,14 +17,16 @@ Currently, I am creating an open source *php* library named [JsPhp](https://gith
 #### Stats
 [![readme stats](https://github-readme-stats.vercel.app/api?username=ahamed&show_icons=true)](https://github.com/ahamed/JsPhp)
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   11 hrs 22 mins  █████████████████████░░░░   84.38 %
-JavaScript   1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-SCSS         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TypeScript   12 hrs 36 mins  ████████████████████▓░░░░   82.80 %
+JavaScript   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+SCSS         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
+
 <!--END_SECTION:waka-->
 </div>
 
