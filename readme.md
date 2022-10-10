@@ -20,8 +20,8 @@ Currently, I am creating an open source *php* library named [JsPhp](https://gith
 
 ```text
 JavaScript       3 hrs 13 mins   ████████▓░░░░░░░░░░░░░░░░   34.85 %
-TypeScript       2 hrs 33 mins   ███████░░░░░░░░░░░░░░░░░░   27.67 %
-PHP              1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
+TypeScript       2 hrs 33 mins   ███████░░░░░░░░░░░░░░░░░░   27.68 %
+PHP              1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
 CSS              41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
 Markdown         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 HTML             19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
