@@ -13,26 +13,26 @@ Currently, I am creating an open source *php* library named [JsPhp](https://gith
 
 ## Skilled in
 - ⭕ Languages
-	- 🔰 `Javascript`
-	- 🔰 `Typescript`
-	- 🔰 `PHP`
-	- 🔰 `CSS`
-	- 🔰 `C++`
-	- 🔰 `MySQL`
-	- 🔰 `Shell Scripting` 
+	- ✅ Javascript
+	- ✅ Typescript
+	- ✅ PHP
+	- ✅ CSS
+	- ✅ C++
+	- ✅ MySQL
+	- ✅ Shell Scripting
 - ⭕ Libraries
-	- 🔰 `ReactJs`
-	- 🔰 `NextJs`
-	- 🔰 `react-query`
-	- 🔰 `react-hook-form`
-	- 🔰 `Redux Toolkit`
-	- 🔰 `emotion`
-	- 🔰 `SCSS`
+	- ✅ ReactJs
+	- ✅ NextJs
+	- ✅ react-query
+	- ✅ react-hook-form
+	- ✅ Redux Toolkit
+	- ✅ emotion
+	- ✅ SCSS
 - ⭕ CMS
-	- 🔰 `Wordpress`
-	- 🔰 `Joomla`
+	- ✅ Wordpress
+	- ✅ Joomla
 
---- 
+## Miscellaneous
 
 <div style="display: flex; align-items: flex-end; gap: 10px;flex-direction: row-reverse; max-width: 878px;">
 <div>
