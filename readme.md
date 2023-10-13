@@ -42,11 +42,11 @@ Currently, I am creating an open source *php* library named [JsPhp](https://gith
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 hrs 14 mins   ████████████▒░░░░░░░░░░░░   48.91 %
-TypeScript   2 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.78 %
-PHP          1 hr 43 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-CSS          1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+JavaScript   5 hrs 48 mins   ██████████▒░░░░░░░░░░░░░░   41.26 %
+TypeScript   4 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   31.56 %
+PHP          1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+CSS          1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+INI          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka-->
