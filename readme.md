@@ -44,7 +44,7 @@ Currently, I am creating an open source *php* library named [JsPhp](https://gith
 ```txt
 PHP          5 hrs 10 mins   ████████████▒░░░░░░░░░░░░   49.59 %
 JavaScript   2 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
-JSON         1 hr 41 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
+JSON         1 hr 41 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
 TypeScript   1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
 INI          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
